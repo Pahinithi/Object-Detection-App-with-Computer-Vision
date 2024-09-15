@@ -113,7 +113,7 @@ Building an Object Detection App/
 
 ## Screenshots
 
-<img width="1728" alt="Screenshot 2024-09-15 at 16 33 54" src="https://github.com/user-attachments/assets/61275a8f-b269-491a-ae83-7056511828e6">
+<img width="1728" alt="Screenshot 2024-09-15 at 16 33 54" src="https://github.com/user-attachments/assets/61275a8f-b269-491a-ae83-7056511828e6"> <br>
 
 
 <img width="1728" alt="CV06" src="https://github.com/user-attachments/assets/cac0582c-bd90-42c5-a460-2da980459398">
