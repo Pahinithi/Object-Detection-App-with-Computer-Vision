@@ -142,11 +142,7 @@ The design utilizes **Bootstrap 4.5.2** to provide a responsive and visually app
 
 Contributions are welcome! If you have suggestions for improvements, feel free to fork the repository, create a new branch, and submit a pull request.
 
-1. Fork the repository.
-2. Create a new branch for your feature or fix (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add AmazingFeature'`).
-4. Push the branch to your fork (`git push origin feature/AmazingFeature`).
-5. Open a pull request with a description of your changes.
+
 
 ## License
 
