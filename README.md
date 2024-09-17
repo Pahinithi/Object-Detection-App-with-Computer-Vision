@@ -143,7 +143,6 @@ The design utilizes **Bootstrap 4.5.2** to provide a responsive and visually app
 Contributions are welcome! If you have suggestions for improvements, feel free to fork the repository, create a new branch, and submit a pull request.
 
 
-
 ## License
 
 This project is licensed under the **MIT License**. 
